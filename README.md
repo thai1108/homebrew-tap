@@ -8,4 +8,4 @@ brew install --cask thai1108/tap/disk-cleaner
 
 | Cask | App |
 | --- | --- |
-| `disk-cleaner` | [Disk Cleaner](https://github.com/thai1108/disk-cleaner-releases): disk space analyzer and cleaner for macOS |
+| `disk-cleaner` | [Disk Cleaner](https://github.com/thai1108/disk-cleaner): disk space analyzer and cleaner for macOS |
